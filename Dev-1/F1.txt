@@ -3,3 +3,5 @@ Welcome to GIT session.
 
 This is Dev-2 modification.
 
+I am Dev-1 appending new text.
+
