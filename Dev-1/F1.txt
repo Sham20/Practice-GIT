@@ -1,1 +1,2 @@
 Hi, This is F1 file.
+Welcome to GIT session.
